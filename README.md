@@ -1,5 +1,5 @@
 # Online-Streaming
-##Streaming Platform
+## Streaming Platform
 A Streaming Platform allows users to stream videos or music, create playlists, and share content. The backend will use Node.js and Express to handle content management, user authentication, and streaming APIs.
 
 MongoDB will store user data, media files, playlists, and comments. For video or music storage and delivery, you must integrate AWS S3 for media file storage and AWS CloudFront for fast content delivery.
